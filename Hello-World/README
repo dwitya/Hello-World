@@ -1,0 +1,6 @@
+cara add dan commit file di github :
+1. git add <nama_file>
+2. git commit <nama_commit>
+3. push origin master
+
+test
